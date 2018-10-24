@@ -1,1 +1,1 @@
-include ':MoxyExperiments'
+include ':MoxyExperiments', ':MosbyNews'
