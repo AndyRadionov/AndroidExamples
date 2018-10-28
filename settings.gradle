@@ -1,1 +1,1 @@
-include ':MoxyPresenterForView', ':MosbyNews'
+include ':MoxyPresenterForView', ':MosbyNews', ':MoxyNewsCourutines'
